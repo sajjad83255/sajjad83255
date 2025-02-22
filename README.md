@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/MdSajjad1712" target="blank"><img src="https://img.shields.io/twitter/follow/MdSajjad1712?logo=twitter&style=for-the-badge" /></a> </p>
 
-- 🔭 I’m currently working on *TrendSetters - An e-commerce Website*
 
 - 🌱 I’m currently learning *Front-end Development, Restful API & Docker*
 
